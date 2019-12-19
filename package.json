@@ -1,0 +1,8 @@
+{
+  "name": "demo1.0",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "author": "wangfeixiang",
+  "license": "MIT"
+}
